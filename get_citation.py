@@ -24,6 +24,7 @@ with open("data.json", encoding="utf-8") as f:
         results["organic_results"][i]["inline_links"]["cited_by"]["total"]
         for i in range(len(results["organic_results"]))
     ]
+    # Sort by number of citations and get index of paper in original list
     sorted_citations = [
         b[:] for b in sorted(enumerate(citations), key=lambda i: i[1], reverse=True)
     ]
@@ -42,4 +43,4 @@ with open("data.json", encoding="utf-8") as f:
     }
 
     df = pd.DataFrame(data)
-    print(df)
+    df.to_csv(f"{params["q"]}.csv", index=False)
