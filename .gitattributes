@@ -1,0 +1,10 @@
+# Handle all text files (like .py, .js, etc.) with appropriate line endings
+* text=auto
+
+# Ensure shell scripts and Python scripts use LF endings
+*.sh eol=lf
+*.py eol=lf
+
+# Treat images and binaries without modifying line endings
+*.jpg binary
+*.png binary

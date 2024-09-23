@@ -1,0 +1,953 @@
+{
+    "search_metadata": {
+        "id": "66f1870b207c88bcce9c5b51",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/84ad7564ec4305a9/66f1870b207c88bcce9c5b51.json",
+        "created_at": "2024-09-23 15:19:39 UTC",
+        "processed_at": "2024-09-23 15:19:39 UTC",
+        "google_scholar_url": "https://scholar.google.com/scholar?q=Bone+Bioreactor&hl=en&num=100",
+        "raw_html_file": "https://serpapi.com/searches/84ad7564ec4305a9/66f1870b207c88bcce9c5b51.html",
+        "total_time_taken": 0.36
+    },
+    "search_parameters": {
+        "engine": "google_scholar",
+        "q": "Bone Bioreactor",
+        "hl": "en",
+        "num": "100"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "total_results": 93000,
+        "time_taken_displayed": 0.12,
+        "query_displayed": "Bone Bioreactor"
+    },
+    "organic_results": [
+        {
+            "position": 0,
+            "title": "Bioreactor systems for bone tissue engineering",
+            "result_id": "MFMl8OAdE4MJ",
+            "link": "https://www.liebertpub.com/doi/abs/10.1089/ten.TEB.2010.0612",
+            "snippet": "… limitations bioreactor systems denote key components for bone TE strategies. A variety of dynamic 3D bioreactor concepts mimicking the native microenvironment in bone tissue, for …",
+            "publication_info": {
+                "summary": "J Rauh, F Milan, KP Günther… - Tissue Engineering Part B …, 2011 - liebertpub.com"
+            },
+            "resources": [
+                {
+                    "title": "academia.edu",
+                    "file_format": "PDF",
+                    "link": "https://www.academia.edu/download/43090869/Bioreactor_systems_for_bone_tissue_engin20160226-23374-16qyiw.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=MFMl8OAdE4MJ",
+                "cited_by": {
+                    "total": 265,
+                    "link": "https://scholar.google.com/scholar?cites=9444925695464919856&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "9444925695464919856",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=9444925695464919856&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:MFMl8OAdE4MJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AMFMl8OAdE4MJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=9444925695464919856&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "9444925695464919856",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=9444925695464919856&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 1,
+            "title": "In vivo engineering of organs: The bone bioreactor",
+            "result_id": "bGHVT74pXMwJ",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.0504705102",
+            "snippet": "… We created such bioreactors in the tibia of New Zealand White rabbits and then … the bioreactor space was reconstituted by functional living bone. Furthermore, the engineered bone was …",
+            "publication_info": {
+                "summary": "MM Stevens, RP Marini, D Schaefer… - Proceedings of the …, 2005 - National Acad Sciences",
+                "authors": [
+                    {
+                        "name": "MM Stevens",
+                        "link": "https://scholar.google.com/citations?user=99lD_tAAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=99lD_tAAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "99lD_tAAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "pnas.org",
+                    "file_format": "PDF",
+                    "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.0504705102"
+                },
+                {
+                    "title": "Full View",
+                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:bGHVT74pXMwJ:scholar.google.com/&hl=en&num=20&as_sdt=0,5&scillfp=14520066654350491377&oi=lle"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bGHVT74pXMwJ",
+                "cited_by": {
+                    "total": 427,
+                    "link": "https://scholar.google.com/scholar?cites=14725690778954588524&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "14725690778954588524",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14725690778954588524&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:bGHVT74pXMwJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AbGHVT74pXMwJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cluster=14725690778954588524&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "14725690778954588524",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14725690778954588524&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 2,
+            "title": "Bioreactor systems for human bone tissue engineering",
+            "result_id": "iCbYhZm0UMUJ",
+            "link": "https://www.mdpi.com/2227-9717/2/2/494",
+            "snippet": "… relevant bone grafts. In this review, the authors report the advances in the development … bone tissue substitutes using human cells and bioreactor systems. Principal types of bioreactors …",
+            "publication_info": {
+                "summary": "M Sladkova, GM De Peppo - Processes, 2014 - mdpi.com",
+                "authors": [
+                    {
+                        "name": "M Sladkova",
+                        "link": "https://scholar.google.com/citations?user=loWoYqYAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=loWoYqYAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "loWoYqYAAAAJ"
+                    },
+                    {
+                        "name": "GM De Peppo",
+                        "link": "https://scholar.google.com/citations?user=wkKX4gEAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wkKX4gEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "wkKX4gEAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "mdpi.com",
+                    "file_format": "PDF",
+                    "link": "https://www.mdpi.com/2227-9717/2/2/494/pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=iCbYhZm0UMUJ",
+                "cited_by": {
+                    "total": 105,
+                    "link": "https://scholar.google.com/scholar?cites=14218062595077187208&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "14218062595077187208",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14218062595077187208&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:iCbYhZm0UMUJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AiCbYhZm0UMUJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=14218062595077187208&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "14218062595077187208",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14218062595077187208&engine=google_scholar&hl=en&num=20"
+                },
+                "cached_page_link": "https://scholar.googleusercontent.com/scholar?q=cache:iCbYhZm0UMUJ:scholar.google.com/+Bone+Bioreactor&hl=en&num=20&as_sdt=0,5"
+            }
+        },
+        {
+            "position": 3,
+            "title": "Bioreactor-based bone tissue engineering",
+            "result_id": "T4ai74vnEu0J",
+            "link": "https://books.google.com/books?hl=en&lr=&id=nm-QDwAAQBAJ&oi=fnd&pg=PA223&dq=Bone+Bioreactor&ots=NfmwnD9hEk&sig=_qN7we0lxlJBqUbWMraW3PGsJwo",
+            "snippet": "… Bioreactors for bone engineering applications are broadly classified in few main catego… bioreactors and compression systems. In addition to these, combinations of different bioreactors …",
+            "publication_info": {
+                "summary": "I Marijanovic, M Antunovic, I Matic… - … techniques in bone …, 2016 - books.google.com",
+                "authors": [
+                    {
+                        "name": "I Marijanovic",
+                        "link": "https://scholar.google.com/citations?user=aBFBlMIAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=aBFBlMIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "aBFBlMIAAAAJ"
+                    },
+                    {
+                        "name": "M Antunovic",
+                        "link": "https://scholar.google.com/citations?user=S7DGxw4AAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=S7DGxw4AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "S7DGxw4AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "intechopen.com",
+                    "file_format": "HTML",
+                    "link": "https://www.intechopen.com/chapters/50291"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=T4ai74vnEu0J",
+                "html_version": "https://www.intechopen.com/chapters/50291",
+                "cited_by": {
+                    "total": 14,
+                    "link": "https://scholar.google.com/scholar?cites=17082970924776588879&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "17082970924776588879",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=17082970924776588879&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:T4ai74vnEu0J:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AT4ai74vnEu0J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=17082970924776588879&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "17082970924776588879",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=17082970924776588879&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Bone tissue engineering bioreactors: dynamic culture and the influence of shear stress",
+            "result_id": "0f0PPOPK_bIJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S8756328210016042",
+            "snippet": "… bioreactor system was used to culture a demineralized bone … bone volume were both significantly greater in the bioreactor … bioreactors could be used to aid in the regeneration of bone …",
+            "publication_info": {
+                "summary": "AB Yeatts, JP Fisher - Bone, 2011 - Elsevier",
+                "authors": [
+                    {
+                        "name": "AB Yeatts",
+                        "link": "https://scholar.google.com/citations?user=S5XDwMkAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=S5XDwMkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "S5XDwMkAAAAJ"
+                    },
+                    {
+                        "name": "JP Fisher",
+                        "link": "https://scholar.google.com/citations?user=ZDDU4hQAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=ZDDU4hQAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "ZDDU4hQAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "uni-regensburg.de",
+                    "file_format": "PDF",
+                    "link": "https://minuth.app.uni-regensburg.de/PDF/Proceedings/2011_Yeatts.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=0f0PPOPK_bIJ",
+                "cited_by": {
+                    "total": 384,
+                    "link": "https://scholar.google.com/scholar?cites=12897687985173036497&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "12897687985173036497",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12897687985173036497&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:0f0PPOPK_bIJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A0f0PPOPK_bIJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=12897687985173036497&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "12897687985173036497",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12897687985173036497&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "Dynamic bioreactor culture of high volume engineered bone tissue",
+            "result_id": "yItu4jV0NGEJ",
+            "link": "https://www.liebertpub.com/doi/abs/10.1089/ten.tea.2015.0395",
+            "snippet": "… TPS bioreactor cultured cells were able to induce increased bone formation after implantation into a rat critical sized bone … bioreactor culture on osteogenesis for bone tissue-engineered …",
+            "publication_info": {
+                "summary": "BNB Nguyen, H Ko, RA Moriarty… - … Engineering Part A, 2016 - liebertpub.com",
+                "authors": [
+                    {
+                        "name": "BNB Nguyen",
+                        "link": "https://scholar.google.com/citations?user=c7Vbcr0AAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=c7Vbcr0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "c7Vbcr0AAAAJ"
+                    },
+                    {
+                        "name": "H Ko",
+                        "link": "https://scholar.google.com/citations?user=wEkUzssAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=wEkUzssAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "wEkUzssAAAAJ"
+                    },
+                    {
+                        "name": "RA Moriarty",
+                        "link": "https://scholar.google.com/citations?user=E8poeNIAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E8poeNIAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "E8poeNIAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "nih.gov",
+                    "file_format": "HTML",
+                    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779290/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=yItu4jV0NGEJ",
+                "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4779290/",
+                "cited_by": {
+                    "total": 50,
+                    "link": "https://scholar.google.com/scholar?cites=7004351095248948168&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "7004351095248948168",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=7004351095248948168&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:yItu4jV0NGEJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AyItu4jV0NGEJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 6,
+                    "link": "https://scholar.google.com/scholar?cluster=7004351095248948168&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "7004351095248948168",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=7004351095248948168&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 6,
+            "title": "Bioreactor cultivation of functional bone grafts",
+            "result_id": "PDa7rOVylcEJ",
+            "link": "https://link.springer.com/protocol/10.1007/978-1-60761-999-4_18",
+            "snippet": "… Perfusion bioreactors enable cultivation of viable bone constructs several millimeters thick, … of bone tissue engineering (4–7). Here we describe a custom-designed bioreactor capable of …",
+            "publication_info": {
+                "summary": "WL Grayson, S Bhumiratana, C Cannizzaro… - Mesenchymal Stem Cell …, 2011 - Springer",
+                "authors": [
+                    {
+                        "name": "WL Grayson",
+                        "link": "https://scholar.google.com/citations?user=0l3OJnEAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0l3OJnEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "0l3OJnEAAAAJ"
+                    },
+                    {
+                        "name": "S Bhumiratana",
+                        "link": "https://scholar.google.com/citations?user=XJtwRYkAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=XJtwRYkAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "XJtwRYkAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=PDa7rOVylcEJ",
+                "cited_by": {
+                    "total": 31,
+                    "link": "https://scholar.google.com/scholar?cites=13949181751621006908&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "13949181751621006908",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=13949181751621006908&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:PDa7rOVylcEJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3APDa7rOVylcEJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 5,
+                    "link": "https://scholar.google.com/scholar?cluster=13949181751621006908&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "13949181751621006908",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=13949181751621006908&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 7,
+            "title": "Bioreactor expansion of human adult bone marrow‐derived mesenchymal stem cells",
+            "result_id": "d732q_kG5BwJ",
+            "link": "https://academic.oup.com/stmcls/article-abstract/24/9/2052/6401281",
+            "snippet": "… bioreactor system to expand MSCs from isolated bone marrow mononuclear cells. The cells were cultured in a rotary bioreactor … fibroblast per day of the bioreactor‐treated cells was 1.44…",
+            "publication_info": {
+                "summary": "X Chen, H Xu, C Wan, M McCaigue, G Li - Stem cells, 2006 - academic.oup.com",
+                "authors": [
+                    {
+                        "name": "G Li",
+                        "link": "https://scholar.google.com/citations?user=YIGsB6QAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=YIGsB6QAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "YIGsB6QAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "wiley.com",
+                    "file_format": "PDF",
+                    "link": "https://stemcellsjournals.onlinelibrary.wiley.com/doi/pdf/10.1634/stemcells.2005-0591"
+                },
+                {
+                    "title": "Full View",
+                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:d732q_kG5BwJ:scholar.google.com/&hl=en&num=20&as_sdt=0,5&scillfp=10866583351416165005&oi=lle"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=d732q_kG5BwJ",
+                "cited_by": {
+                    "total": 203,
+                    "link": "https://scholar.google.com/scholar?cites=2081796597153709431&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "2081796597153709431",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2081796597153709431&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:d732q_kG5BwJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Ad732q_kG5BwJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=2081796597153709431&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "2081796597153709431",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2081796597153709431&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 8,
+            "title": "Design of a flow perfusion bioreactor system for bone tissue-engineering applications",
+            "result_id": "rtkwMTAgx48J",
+            "link": "https://www.liebertpub.com/doi/abs/10.1089/107632703322066723",
+            "snippet": "… bioreactors have been investigated for tissue-engineering applications. Among these bioreactors … investigated, the flow perfusion culture bioreactor. Flow perfusion culture offers several …",
+            "publication_info": {
+                "summary": "GN Bancroft, VI Sikavitsas, AG Mikos - Tissue engineering, 2003 - liebertpub.com",
+                "authors": [
+                    {
+                        "name": "VI Sikavitsas",
+                        "link": "https://scholar.google.com/citations?user=Ual0cp8AAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=Ual0cp8AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "Ual0cp8AAAAJ"
+                    },
+                    {
+                        "name": "AG Mikos",
+                        "link": "https://scholar.google.com/citations?user=LcC3XAsAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=LcC3XAsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "LcC3XAsAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "manchester.ac.uk",
+                    "file_format": "PDF",
+                    "link": "https://personalpages.manchester.ac.uk/staff/j.gough/lectures/te/6_bioreactors/bioreactor/flow_perfusion_bone.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=rtkwMTAgx48J",
+                "cited_by": {
+                    "total": 527,
+                    "link": "https://scholar.google.com/scholar?cites=10360284859144919470&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "10360284859144919470",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=10360284859144919470&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:rtkwMTAgx48J:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3ArtkwMTAgx48J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 10,
+                    "link": "https://scholar.google.com/scholar?cluster=10360284859144919470&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "10360284859144919470",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=10360284859144919470&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 9,
+            "title": "Hematopoietic stem cells: from the bone to the bioreactor",
+            "result_id": "2JPxtEKvOxoJ",
+            "link": "https://www.cell.com/trends/biotechnology/fulltext/S0167-7799(03)00076-3",
+            "snippet": "The ex vivo expansion of human hematopoietic stem cells is a rapidly developing area with a broad range of biomedical applications. The mechanisms of renewal, differentiation and …",
+            "publication_info": {
+                "summary": "GJM Cabrita, BS Ferreira, CL da Silva… - TRENDS in …, 2003 - cell.com",
+                "authors": [
+                    {
+                        "name": "BS Ferreira",
+                        "link": "https://scholar.google.com/citations?user=E0WPyRcAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=E0WPyRcAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "E0WPyRcAAAAJ"
+                    },
+                    {
+                        "name": "CL da Silva",
+                        "link": "https://scholar.google.com/citations?user=UyFQJxgAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=UyFQJxgAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "UyFQJxgAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "psu.edu",
+                    "file_format": "PDF",
+                    "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bf336a77c98f212fead0fc4cde95019adc5e4dad"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=2JPxtEKvOxoJ",
+                "cited_by": {
+                    "total": 188,
+                    "link": "https://scholar.google.com/scholar?cites=1890297169650488280&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "1890297169650488280",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1890297169650488280&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:2JPxtEKvOxoJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A2JPxtEKvOxoJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 19,
+                    "link": "https://scholar.google.com/scholar?cluster=1890297169650488280&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "1890297169650488280",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1890297169650488280&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 10,
+            "title": "A perfusion bioreactor system capable of producing clinically relevant volumes of tissue-engineered bone: in vivo bone formation showing proof of concept",
+            "result_id": "zZQu8bRrPQYJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0142961205007052",
+            "snippet": "… -engineered bone products, we report a direct perfusion bioreactor system. Goat bone marrow … doubling times during growth in this bioreactor system. Implantation of hybrid constructs, …",
+            "publication_info": {
+                "summary": "FW Janssen, J Oostra, A van Oorschot… - Biomaterials, 2006 - Elsevier"
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=zZQu8bRrPQYJ",
+                "cited_by": {
+                    "total": 228,
+                    "link": "https://scholar.google.com/scholar?cites=449633962691564749&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "449633962691564749",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=449633962691564749&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:zZQu8bRrPQYJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AzZQu8bRrPQYJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=449633962691564749&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "449633962691564749",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=449633962691564749&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 11,
+            "title": "The application of a murine bone bioreactor as a model of tumor: bone interaction",
+            "result_id": "SX1JhT0UxxEJ",
+            "link": "https://link.springer.com/article/10.1007/s10585-006-9044-8",
+            "snippet": "… in vivo bone bioreactor that can be employed as a unique experimental model to study tumor growth and tumor: bone interaction in vivo. The plasticity of the murine bioreactor allows for …",
+            "publication_info": {
+                "summary": "J Halpern, CC Lynch, J Fleming, D Hamming… - Clinical & experimental …, 2006 - Springer",
+                "authors": [
+                    {
+                        "name": "CC Lynch",
+                        "link": "https://scholar.google.com/citations?user=jHLdIpsAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=jHLdIpsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "jHLdIpsAAAAJ"
+                    }
+                ]
+            },
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=SX1JhT0UxxEJ",
+                "cited_by": {
+                    "total": 45,
+                    "link": "https://scholar.google.com/scholar?cites=1281014873471941961&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "1281014873471941961",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=1281014873471941961&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:SX1JhT0UxxEJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3ASX1JhT0UxxEJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=1281014873471941961&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "1281014873471941961",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=1281014873471941961&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 12,
+            "title": "The role of perfusion bioreactors in bone tissue engineering",
+            "result_id": "fla686UER-gJ",
+            "link": "https://www.tandfonline.com/doi/abs/10.4161/biom.22170",
+            "snippet": "… of bone cells in three-dimensional constructs in bioreactor … For bone tissue engineering spinner flasks, rotating wall … future applications of bioreactor systems for bone tissue engineering …",
+            "publication_info": {
+                "summary": "DA Gaspar, V Gomide, FJ Monteiro - Biomatter, 2012 - Taylor & Francis",
+                "authors": [
+                    {
+                        "name": "DA Gaspar",
+                        "link": "https://scholar.google.com/citations?user=JCdbPS8AAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=JCdbPS8AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "JCdbPS8AAAAJ"
+                    },
+                    {
+                        "name": "FJ Monteiro",
+                        "link": "https://scholar.google.com/citations?user=tB03_woAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=tB03_woAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "tB03_woAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "tandfonline.com",
+                    "file_format": "PDF",
+                    "link": "https://www.tandfonline.com/doi/pdf/10.4161/biom.22170"
+                },
+                {
+                    "title": "Full View",
+                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:fla686UER-gJ:scholar.google.com/&hl=en&num=20&as_sdt=0,5&scillfp=1997493205269523088&oi=lle"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=fla686UER-gJ",
+                "cited_by": {
+                    "total": 186,
+                    "link": "https://scholar.google.com/scholar?cites=16737351650950927998&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "16737351650950927998",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16737351650950927998&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:fla686UER-gJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Afla686UER-gJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=16737351650950927998&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "16737351650950927998",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16737351650950927998&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 13,
+            "title": "Bone tissue engineering in a rotating bioreactor using a microcarrier matrix system",
+            "result_id": "vnoPm00CqCQJ",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/1097-4636(200105)55:2%3C242::AID-JBM1011%3E3.0.CO;2-D",
+            "snippet": "… To compare resulting scaffold motion in the rotating bioreactor relative to the culture medium, we used a particle tracking system built for the rotating bioreactor as described previously.…",
+            "publication_info": {
+                "summary": "EA Botchwey, SR Pollack, EM Levine… - Journal of Biomedical …, 2001 - Wiley Online Library",
+                "authors": [
+                    {
+                        "name": "EA Botchwey",
+                        "link": "https://scholar.google.com/citations?user=eyPY0LsAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eyPY0LsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eyPY0LsAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "nih.gov",
+                    "file_format": "HTML",
+                    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464017/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vnoPm00CqCQJ",
+                "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464017/",
+                "cited_by": {
+                    "total": 336,
+                    "link": "https://scholar.google.com/scholar?cites=2641363713790016190&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "2641363713790016190",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=2641363713790016190&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vnoPm00CqCQJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AvnoPm00CqCQJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=2641363713790016190&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "2641363713790016190",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=2641363713790016190&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 14,
+            "title": "Replacement of bone marrow by bone in rat femurs: the bone bioreactor",
+            "result_id": "XhPEn824EMoJ",
+            "link": "https://www.liebertpub.com/doi/abs/10.1089/tea.2007.0261",
+            "snippet": "… those of others, that bone marrow is a potent inhibitor of bone formation by endosteal cells, … surface of bone, since the ablation of bone marrow leads to the rapid formation of new bone. …",
+            "publication_info": {
+                "summary": "Q Zhang, E Cuartas, N Mehta, J Gilligan… - … Engineering Part A, 2008 - liebertpub.com"
+            },
+            "resources": [
+                {
+                    "title": "researchgate.net",
+                    "file_format": "PDF",
+                    "link": "https://www.researchgate.net/profile/Hua-Zhu-Ke/publication/5518040_Replacement_of_Bone_Marrow_by_Bone_in_Rat_Femurs_The_Bone_Bioreactor/links/00b7d532087e553fd2000000/Replacement-of-Bone-Marrow-by-Bone-in-Rat-Femurs-The-Bone-Bioreactor.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=XhPEn824EMoJ",
+                "cited_by": {
+                    "total": 20,
+                    "link": "https://scholar.google.com/scholar?cites=14560340788577047390&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "14560340788577047390",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=14560340788577047390&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:XhPEn824EMoJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AXhPEn824EMoJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=14560340788577047390&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "14560340788577047390",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=14560340788577047390&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 15,
+            "title": "Bioreactor-based bone tissue engineering: the influence of dynamic flow on osteoblast phenotypic expression and matrix mineralization",
+            "result_id": "bzZS80xIF_8J",
+            "link": "https://www.pnas.org/doi/abs/10.1073/pnas.0402532101",
+            "snippet": "… on the scaffolds in bioreactors for 7 days, the 3D dynamic flow environment affected bone cell … optimization of 3D scaffolds suitable in bioreactors for in vitro tissue engineering of bone. …",
+            "publication_info": {
+                "summary": "X Yu, EA Botchwey, EM Levine… - Proceedings of the …, 2004 - National Acad Sciences",
+                "authors": [
+                    {
+                        "name": "EA Botchwey",
+                        "link": "https://scholar.google.com/citations?user=eyPY0LsAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=eyPY0LsAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "eyPY0LsAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "pnas.org",
+                    "file_format": "PDF",
+                    "link": "https://www.pnas.org/doi/pdf/10.1073/pnas.0402532101"
+                },
+                {
+                    "title": "Full View",
+                    "link": "https://scholar.google.com/scholar?output=instlink&q=info:bzZS80xIF_8J:scholar.google.com/&hl=en&num=20&as_sdt=0,5&scillfp=16237244275148515812&oi=lle"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=bzZS80xIF_8J",
+                "cited_by": {
+                    "total": 372,
+                    "link": "https://scholar.google.com/scholar?cites=18381239899472934511&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "18381239899472934511",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=18381239899472934511&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:bzZS80xIF_8J:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AbzZS80xIF_8J%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=18381239899472934511&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "18381239899472934511",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=18381239899472934511&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 16,
+            "title": "Bone grafts engineered from human adipose-derived stem cells in perfusion bioreactor culture",
+            "result_id": "7xbSnycQVdIJ",
+            "link": "https://www.liebertpub.com/doi/abs/10.1089/ten.TEA.2009.0164",
+            "snippet": "… bone constructs created in vitro using human adipose-derived stem cells (hASCs), decellularized bone scaffolds, and perfusion bioreactors. … fully decellularized native bone scaffolds (4 …",
+            "publication_info": {
+                "summary": "M Fröhlich, WL Grayson, D Marolt… - … Engineering Part A, 2010 - liebertpub.com",
+                "authors": [
+                    {
+                        "name": "WL Grayson",
+                        "link": "https://scholar.google.com/citations?user=0l3OJnEAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=0l3OJnEAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "0l3OJnEAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "nih.gov",
+                    "file_format": "HTML",
+                    "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2804768/"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=7xbSnycQVdIJ",
+                "html_version": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2804768/",
+                "cited_by": {
+                    "total": 214,
+                    "link": "https://scholar.google.com/scholar?cites=15156037883356387055&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "15156037883356387055",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=15156037883356387055&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:7xbSnycQVdIJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3A7xbSnycQVdIJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 11,
+                    "link": "https://scholar.google.com/scholar?cluster=15156037883356387055&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "15156037883356387055",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=15156037883356387055&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 17,
+            "title": "Evolution of an in vivo bioreactor",
+            "result_id": "hKzGZz8TfLAJ",
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1016/j.orthres.2004.10.005",
+            "snippet": "… This study introduces an “in vivo bioreactor,” a model in which pluripotent cells are recruited … bone morphogenetic protein-2 (BMP-2). The bioreactor generates new, ectopic host bone …",
+            "publication_info": {
+                "summary": "GE Holt, JL Halpern, TT Dovan… - Journal of …, 2005 - Wiley Online Library"
+            },
+            "resources": [
+                {
+                    "title": "wiley.com",
+                    "file_format": "PDF",
+                    "link": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1016/j.orthres.2004.10.005"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=hKzGZz8TfLAJ",
+                "cited_by": {
+                    "total": 84,
+                    "link": "https://scholar.google.com/scholar?cites=12717060610832379012&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "12717060610832379012",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=12717060610832379012&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:hKzGZz8TfLAJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3AhKzGZz8TfLAJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 9,
+                    "link": "https://scholar.google.com/scholar?cluster=12717060610832379012&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "12717060610832379012",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=12717060610832379012&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 18,
+            "title": "Mathematical and computational models for bone tissue engineering in bioreactor systems",
+            "result_id": "NLutaJ-OvDEJ",
+            "link": "https://journals.sagepub.com/doi/abs/10.1177/2041731419827922",
+            "snippet": "… into the effect of the bioreactor environment on the cell culture, … Aiming to act as an introductory reference for bone tissue … on various aspects of bioreactor bone cultures and overviews …",
+            "publication_info": {
+                "summary": "I Burova, I Wall, RJ Shipley - Journal of tissue engineering, 2019 - journals.sagepub.com",
+                "authors": [
+                    {
+                        "name": "I Wall",
+                        "link": "https://scholar.google.com/citations?user=9xt5RHUAAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=9xt5RHUAAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "9xt5RHUAAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "sagepub.com",
+                    "file_format": "PDF",
+                    "link": "https://journals.sagepub.com/doi/pdf/10.1177/2041731419827922"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=NLutaJ-OvDEJ",
+                "cited_by": {
+                    "total": 53,
+                    "link": "https://scholar.google.com/scholar?cites=3583896218787232564&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "3583896218787232564",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=3583896218787232564&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:NLutaJ-OvDEJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3ANLutaJ-OvDEJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 13,
+                    "link": "https://scholar.google.com/scholar?cluster=3583896218787232564&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "3583896218787232564",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=3583896218787232564&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        },
+        {
+            "position": 19,
+            "title": "A biaxial rotating bioreactor for the culture of fetal mesenchymal stem cells for bone tissue engineering",
+            "result_id": "vi5bE25cD-AJ",
+            "link": "https://www.sciencedirect.com/science/article/pii/S0142961209000490",
+            "snippet": "… Here we investigated the use of this biaxial bioreactor system for the in-vitro maturation of … generate bone tissue engineered grafts. We report that the incorporation of a biaxial bioreactor …",
+            "publication_info": {
+                "summary": "ZY Zhang, SH Teoh, WS Chong, TT Foo, YC Chng… - Biomaterials, 2009 - Elsevier",
+                "authors": [
+                    {
+                        "name": "ZY Zhang",
+                        "link": "https://scholar.google.com/citations?user=2p6Jh-0AAAAJ&hl=en&num=20&oi=sra",
+                        "serpapi_scholar_link": "https://serpapi.com/search.json?author_id=2p6Jh-0AAAAJ&engine=google_scholar_author&hl=en",
+                        "author_id": "2p6Jh-0AAAAJ"
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "title": "academia.edu",
+                    "file_format": "PDF",
+                    "link": "https://www.academia.edu/download/100654864/quinxell-Zhang_20Biaxial_20Rotating_20Bioreactor_20hfMSC_20Biomaterials_2009.pdf"
+                }
+            ],
+            "inline_links": {
+                "serpapi_cite_link": "https://serpapi.com/search.json?engine=google_scholar_cite&hl=en&q=vi5bE25cD-AJ",
+                "cited_by": {
+                    "total": 180,
+                    "link": "https://scholar.google.com/scholar?cites=16145224816987418302&as_sdt=2005&sciodt=0,5&hl=en&num=20",
+                    "cites_id": "16145224816987418302",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=2005&cites=16145224816987418302&engine=google_scholar&hl=en&num=20"
+                },
+                "related_pages_link": "https://scholar.google.com/scholar?q=related:vi5bE25cD-AJ:scholar.google.com/&scioq=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+                "serpapi_related_pages_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=related%3Avi5bE25cD-AJ%3Ascholar.google.com%2F",
+                "versions": {
+                    "total": 8,
+                    "link": "https://scholar.google.com/scholar?cluster=16145224816987418302&hl=en&num=20&as_sdt=0,5",
+                    "cluster_id": "16145224816987418302",
+                    "serpapi_scholar_link": "https://serpapi.com/search.json?as_sdt=0%2C5&cluster=16145224816987418302&engine=google_scholar&hl=en&num=20"
+                }
+            }
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "bone bioreactor scaffold",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=1&q=bone+bioreactor+scaffold&qst=ib"
+        },
+        {
+            "query": "bone bioreactor ex vivo",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=2&q=bone+bioreactor+ex+vivo&qst=ib"
+        },
+        {
+            "query": "bone bioreactor perfusion",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=3&q=bone+bioreactor+perfusion&qst=ib"
+        },
+        {
+            "query": "mechanical bone bioreactor",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=4&q=mechanical+bone+bioreactor&qst=ib"
+        },
+        {
+            "query": "tissue engineering bone bioreactor",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=5&q=tissue+engineering+bone+bioreactor&qst=ib"
+        },
+        {
+            "query": "bone bioreactor strain",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=6&q=bone+bioreactor+strain&qst=ib"
+        },
+        {
+            "query": "printing bone bioreactor",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=7&q=printing+bone+bioreactor&qst=ib"
+        },
+        {
+            "query": "bone bioreactor compression",
+            "link": "https://scholar.google.com/scholar?hl=en&num=20&as_sdt=0,5&qsp=8&q=bone+bioreactor+compression&qst=ib"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://scholar.google.com/scholar?start=20&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+        "other_pages": {
+            "2": "https://scholar.google.com/scholar?start=20&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "3": "https://scholar.google.com/scholar?start=40&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "4": "https://scholar.google.com/scholar?start=60&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "5": "https://scholar.google.com/scholar?start=80&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "6": "https://scholar.google.com/scholar?start=100&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "7": "https://scholar.google.com/scholar?start=120&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "8": "https://scholar.google.com/scholar?start=140&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "9": "https://scholar.google.com/scholar?start=160&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5",
+            "10": "https://scholar.google.com/scholar?start=180&q=Bone+Bioreactor&hl=en&num=20&as_sdt=0,5"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=20",
+        "next": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=20",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=20",
+            "3": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=40",
+            "4": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=60",
+            "5": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=80",
+            "6": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=100",
+            "7": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=120",
+            "8": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=140",
+            "9": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=160",
+            "10": "https://serpapi.com/search.json?as_sdt=0%2C5&engine=google_scholar&hl=en&num=20&q=Bone+Bioreactor&start=180"
+        }
+    }
+}
