@@ -5,7 +5,7 @@ import pandas as pd
 # Must perform  pip install google-search-results to get GoogleSearch library
 
 params = {
-    "api_key": "a1ac8e27db5406f5e8f793ce30f9803d40953234717e290114d3afd1dd08a0e9",
+    "api_key": "my_api_key",
     "engine": "google_scholar",
     "q": "Bone Bioreactor",
     "hl": "en",
